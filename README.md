@@ -5,7 +5,7 @@ Make sure to have .NET CORE installed.
 Program will output a txt file in the GlobalX directory called sorted-names-list.txt
 
 # Run Instructions
-To run, be on the current directory, then do
+To run, be on the GlobalX directory, then do
 ```
 dotnet run --project name-sorter ./[FILENAME]
 ```
@@ -20,5 +20,5 @@ dotnet run --project name-sorter ./unsorted-names-list.txt
 # unit testing
 To do unit testing, do
 ```
-dotnet test name-sorter_UnitTest
+dotnet test XUnitTest_name-sorter
 ```
