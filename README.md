@@ -1,8 +1,9 @@
 # nameSorter
 Name Sorter made using C# .NET CORE for GlobalX coding assignment
+Make sure to have .NET CORE installed.
 
 # Run Instructions
-To run, do
+To run, be on the current directory, then do
 
 ```
 dotnet run --project name-sorter ./[FILENAME]
