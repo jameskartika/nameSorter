@@ -4,12 +4,13 @@ Make sure to have .NET CORE installed.
 
 # Run Instructions
 To run, be on the current directory, then do
-
 ```
 dotnet run --project name-sorter ./[FILENAME]
 ```
+make sure to put the file in the GlobalX folder, the same directory as the example file. Or you can change the path.
 
-or if you want to run the sample file given,
+
+If you want to run the sample file given,
 ```
 dotnet run --project name-sorter ./unsorted-names-list.txt
 ```
