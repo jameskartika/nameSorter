@@ -1,5 +1,5 @@
 # nameSorter
-Name Sorter made using C# .NET CORE for GlobalX coding assignment
+Name Sorter made using C# .NET CORE for GlobalX coding assignment</br>
 Make sure to have .NET CORE installed.
 
 # Run Instructions
